@@ -1,0 +1,5 @@
+client,rate,currency,tax_rate,terms_days,min_charge
+Acme Ltd,95,USD,0,14,0
+Brighton Cafe,70,GBP,20,30,150
+Harbour Co,110,EUR,21,14,0
+Lumen LLP,85,USD,0,14,0

@@ -1,0 +1,20 @@
+date,client,project,description,hours
+2026-07-04,Acme Ltd,Acme website rebuild,Wireframes,3.5
+2026-07-11,Acme Ltd,Acme website rebuild,Homepage layout,6.25
+2026-07-18,Acme Ltd,Acme website rebuild,Component library,8
+2026-07-25,Acme Ltd,Acme website rebuild,CMS setup,5.75
+2026-07-12,Brighton Cafe,Brighton menu app,Discovery call,1.0
+2026-07-20,Brighton Cafe,Brighton menu app,Prototype,4.5
+2026-07-13,Harbour Co,Harbour reporting,Data audit,7
+2026-07-27,Harbour Co,Harbour reporting,Dashboard v1,9.5
+2026-08-02,Acme Ltd,Acme website rebuild,CMS templates,6.1
+2026-08-03,Acme Ltd,Acme website rebuild,Blog integration,4.4
+2026-08-09,Acme Ltd,Acme website rebuild,QA pass,3.0
+2026-08-10,Acme Ltd,Acme website rebuild,Bug fixes,0.4
+2026-08-16,Acme Ltd,Acme website rebuild,Launch prep,5.9
+2026-08-23,Acme Ltd,Acme website rebuild,Handover docs,2.83
+2026-08-11,Brighton Cafe,Brighton menu app,Allergen tags,1.6
+2026-08-05,Harbour Co,Harbour reporting,KPI definitions,3.3
+2026-08-12,Harbour Co,Harbour reporting,Dashboard v2,8.0
+2026-08-19,Harbour Co,Harbour reporting,Data pipeline,6.7
+2026-08-26,Harbour Co,Harbour reporting,Handover,1.2
