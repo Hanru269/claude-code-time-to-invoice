@@ -1,5 +1,8 @@
 # Time-tracking CSV to client invoices (Claude Code skill)
 
+![Real output on the included sample data](images/003-out1.png)
+
+
 A free [Claude Code](https://claude.com/claude-code) skill and standalone script that turns a time-tracking export (Toggl, Clockify, Harvest or a spreadsheet) into one printable invoice per client, plus a register CSV.
 The script does all the arithmetic with exact decimals; Claude confirms your rates, rounding and tax, and explains the result.
 
